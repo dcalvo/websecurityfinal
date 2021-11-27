@@ -1,0 +1,14 @@
+{
+  "name": "websecurityfinal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/extract-zip": "^2.0.1",
+    "@types/node": "^16.11.10",
+    "extract-zip": "^2.0.1",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2",
+    "webpack": "^5.64.4"
+  }
+}
